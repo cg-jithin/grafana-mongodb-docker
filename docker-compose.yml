@@ -9,4 +9,4 @@ services:
      - ./data:/var/lib/grafana
      - /var/lib/grafana/plugins
     ports:
-     - 3001:3000
+     - 3030:3000
